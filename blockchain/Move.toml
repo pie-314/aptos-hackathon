@@ -1,0 +1,16 @@
+[package]
+name = "admin"
+version = "1.0.0"
+authors = []
+
+[addresses]
+TraceChain = "0x7956c69a8b619676c9a6cb9cea0fddaf08d9d47221d53a93af1902d2a83e06a9"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
