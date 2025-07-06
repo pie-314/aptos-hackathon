@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-TraceChain = "0xbffe2eae62b3354ba45ff67ec81b7817c528bcd466c0b3978bd133b8a09ace15"
+TraceChain = "0x70393a3a1d57a236daabd8730a5043a469e67cce81236709b7437425c9bf6a97"
 
 [dev-addresses]
 
