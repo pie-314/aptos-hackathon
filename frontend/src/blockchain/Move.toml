@@ -1,0 +1,15 @@
+[package]
+name = "tracechain"
+version = "1.0.0"
+authors = []
+
+[addresses]
+TraceChain = "0x1fd20acc06a74ec71fcc9c96ab71b1c7e1601fea8662e50b8e962b3f643f3d0b"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
